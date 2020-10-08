@@ -1,0 +1,43 @@
+{
+  "name": "gerenciamento_de_funcionarios",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "^4.5.2",
+    "firebase": "^7.22.1",
+    "mdbreact": "^4.27.0",
+    "moment": "^2.22.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "react-redux-firebase": "^2.1.6",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^8.6.0",
+    "redux": "^4.0.5",
+    "redux-firestore": "^0.5.7",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haroldognjunior/Gerenciamento_de_Funcionarios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haroldognjunior/Gerenciamento_de_Funcionarios/issues"
+  },
+  "homepage": "https://github.com/haroldognjunior/Gerenciamento_de_Funcionarios#readme"
+}
