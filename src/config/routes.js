@@ -4,7 +4,7 @@ import FUNCIONARIO_PROJECT_SUCCESS from '../store/reducers/projectReducer'
 var db = firebase.firestore()
 
 export function add(input) {
-    var nombre = input;
+   var nombre = input;
 db.collection("haja").add({
   nome: nombre
 })

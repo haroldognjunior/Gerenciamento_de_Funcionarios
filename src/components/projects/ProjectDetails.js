@@ -15,9 +15,8 @@ const ProjectDetails = (props) => {
         <div className="card z-depth-0">
           <div className="card-content">
             <span className="card-title">Nome: {project.nome}</span>
-            <p>Cargo: {project.cargo}</p>
-            <p>documento {project.id} key={project.id}</p>
-            <p>Data de Nascimento: {project.cargo}</p>
+            <p>Cargo: {project.cargo}</p>            
+            <p>Data de Nascimento: {project.datanascimento}</p>
             <p>Salário: R$ {project.salario}</p>
             <p>Descrição do Cargo: {project.descricaocargo}</p>
           </div>
